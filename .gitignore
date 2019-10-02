@@ -1,0 +1,7 @@
+
+composer.lock
+.idea
+.env
+vendor
+public/.user.ini
+public/.well-known
