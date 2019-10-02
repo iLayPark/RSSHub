@@ -25,8 +25,6 @@ RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇�
 
 如果有任何想法或需求，可以在 [issue](https://github.com/iLay1678/RSSHub/issues) 中告诉我们，同时我们欢迎各种 pull requests
 
-因为作者是辣鸡高中生，所以各种消息回复得比较慢，还望谅解
-
 ### 提交新的 RSS 内容
 
 1.  在 [/plugins/](https://github.com/iLay1678/RSSHub/blob/master/plugins) 里添加对应分类 (若不存在)
